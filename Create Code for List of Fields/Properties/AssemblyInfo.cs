@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Create Code for List of Fields")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jonathan Ettie")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Create Code for List of Fields")]
-[assembly: AssemblyCopyright("Copyright © Jonathan Ettie 2016")]
+[assembly: AssemblyCopyright("Copyright © Jonathan Ettie 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
